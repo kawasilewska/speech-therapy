@@ -1,0 +1,188 @@
+/* -------------------------------0 - 639--------------------------------------*/
+
+@media (max-width: 639px) {
+	body {
+		text-align: center;
+		font-family: 'Lato', sans-serif;
+		background: url("../img/grey.png");
+		text-align: justify;
+		font-size: 1.2em;
+	}
+
+	h2, h4, h5 {
+		font-family: 'Lato', sans-serif;
+	}
+
+	header {
+		text-align: center;
+		box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.33);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px; 		
+		border-radius: 5px;
+	}
+
+	.row {
+		max-width: 100%;
+	}
+
+	#a {
+		background-color: darkcyan;
+		color: white;
+	}
+
+	#b {
+		background: url("../img/servicesbg.png");
+		color: white;
+	}
+
+	.gameone {
+		padding-top: 1.5em;
+	}
+
+	h4 {
+		color: darkcyan;
+	}
+
+	img {
+		border-radius: 1em;
+	}
+
+	footer {
+		padding-top: 0.8em;
+		padding-bottom: 0.8em;
+		background: url("../img/servicesbg.png");
+		color: white;
+		text-align: center;
+		font-size: 0.85em;
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+	}
+}
+
+/* -------------------------------640 - 1023--------------------------------------*/
+
+@media (min-width: 640px) and (max-width: 1023px) {
+	body {
+		text-align: center;
+		font-family: 'Lato', sans-serif;
+		background: url("../img/grey.png");
+		text-align: justify;
+		font-size: 1.2em;
+	}
+
+	h2, h4, h5 {
+		font-family: 'Lato', sans-serif;
+	}
+
+	header {
+		text-align: center;
+		box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.33);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px; 		
+		border-radius: 5px;
+	}
+
+	.row {
+		max-width: 100%;
+	}
+
+	#a {
+		background-color: darkcyan;
+		color: white;
+	}
+
+	#b {
+		background: url("../img/servicesbg.png");
+		color: white;
+	}
+
+	.gameone {
+		padding-top: 1.5em;
+	}
+
+	h4 {
+		color: darkcyan;
+	}
+
+	img {
+		border-radius: 1em;
+	}
+
+	footer {
+		padding-top: 0.8em;
+		padding-bottom: 0.8em;
+		background: url("../img/servicesbg.png");
+		color: white;
+		text-align: center;
+		font-size: 0.85em;
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+	}
+}
+
+/* -------------------------------1024 - ...--------------------------------------*/
+
+@media (min-width: 1024px) {
+	body {
+		font-family: 'Lato', sans-serif;
+		background: url("../img/grey.png");
+		text-align: justify;
+		font-size: 1.2em;
+	}
+
+	h2, h4, h5 {
+		font-family: 'Lato', sans-serif;
+	}
+
+	header {
+		text-align: center;
+		box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.33);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px; 		
+		border-radius: 5px;
+	}
+
+	.row {
+		max-width: 100%;
+	}
+
+	#a {
+		background-color: darkcyan;
+		color: white;
+	}
+
+	#b {
+		background: url("../img/servicesbg.png");
+		color: white;
+	}
+
+	#animate {
+		padding-top: 0.5em;
+	}
+
+	.gameone {
+		padding-top: 1.5em;
+	}
+
+	h4 {
+		color: darkcyan;
+	}
+
+	img {
+		border-radius: 1em;
+	}
+
+	footer {
+		padding-top: 0.8em;
+		padding-bottom: 0.8em;
+		background: url("../img/servicesbg.png");
+		color: white;
+		text-align: center;
+		font-size: 0.85em;
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+	}
+}

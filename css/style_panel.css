@@ -1,0 +1,218 @@
+/* -------------------------------0 - 639--------------------------------------*/
+
+@media (max-width: 639px) {
+	body {
+		text-align: center;
+		font-family: 'Lato', sans-serif;
+		background: url("../img/grey.png");
+	}
+
+	h1, h3 {
+		font-family: 'Lato', sans-serif;
+	}
+
+	header {
+		text-align: center;
+		box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.33);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px; 		
+		border-radius: 5px;
+	}
+
+	input[type=submit] {
+		margin-top: 0.5em;
+	  	border: 2px solid black;
+	  	font-size: 1.5em;
+	  	text-transform: uppercase;
+	  	color: white;
+	  	cursor: pointer;
+	  	padding: 8px 0px;
+	  	background: rgba(15, 144, 149, 0.5);
+	  	-moz-border-radius: 5px;
+			-webkit-border-radius: 5px; 		
+			border-radius: 5px;
+	  	-webkit-transition: all 0.2s ease-in;
+			-moz-transition: all 0.2s ease-in;
+			-ms-transition: all 0.2s ease-in;
+			-o-transition: all 0.2s ease-in;
+			transition: all 0.2s ease-in;
+	}
+
+	#a, #b{
+		max-width: 100%;
+		color: white;
+	}
+
+	#a {
+		background-color: darkcyan;
+		
+	}
+
+	#b {
+		background: url("../img/servicesbg.png");
+	}
+
+	.options {
+		color: darkcyan;
+		font-size: 2em;
+	}
+
+	img {
+		float: center;
+	}
+
+	footer {
+		padding-top: 0.8em;
+		padding-bottom: 0.8em;
+		background: url("../img/servicesbg.png");
+		color: white;
+		text-align: center;
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+	}
+}
+
+/* -------------------------------640 - 1023--------------------------------------*/
+
+@media (min-width: 640px) and (max-width: 1023px) {
+	body {
+		text-align: center;
+		font-family: 'Lato', sans-serif;
+		background: url("../img/grey.png");
+	}
+
+	h1, h3 {
+		font-family: 'Lato', sans-serif;
+	}
+
+	header {
+		text-align: center;
+		box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.33);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px; 		
+		border-radius: 5px;
+	}
+
+	input[type=submit] {
+		margin-top: 0.5em;
+	  	border: 2px solid black;
+	  	font-size: 1.5em;
+	  	text-transform: uppercase;
+	  	color: white;
+	  	cursor: pointer;
+	  	padding: 8px 0px;
+	  	background: rgba(15, 144, 149, 0.5);
+	  	-moz-border-radius: 5px;
+			-webkit-border-radius: 5px; 		
+			border-radius: 5px;
+	  	-webkit-transition: all 0.2s ease-in;
+			-moz-transition: all 0.2s ease-in;
+			-ms-transition: all 0.2s ease-in;
+			-o-transition: all 0.2s ease-in;
+			transition: all 0.2s ease-in;
+	}
+
+	#a, #b{
+		max-width: 100%;
+		color: white;
+	}
+
+	#a {
+		background-color: darkcyan;
+		
+	}
+
+	#b {
+		background: url("../img/servicesbg.png");
+	}
+
+	.options {
+		color: darkcyan;
+		margin-top: 2em;
+		font-size: 2em;
+	}
+
+	footer {
+		padding-top: 0.8em;
+		padding-bottom: 0.8em;
+		background: url("../img/servicesbg.png");
+		color: white;
+		text-align: center;
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+	}
+}
+
+/* -------------------------------1024 - ...--------------------------------------*/
+
+@media (min-width: 1024px) {
+	body {
+		text-align: center;
+		font-family: 'Lato', sans-serif;
+		background: url("../img/grey.png");
+	}
+
+	h1, h3 {
+		font-family: 'Lato', sans-serif;
+	}
+
+	header {
+		text-align: center;
+		box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.33);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px; 		
+		border-radius: 5px;
+	}
+
+	input[type=submit] {
+		margin-top: 0.5em;
+	  	border: 2px solid black;
+	  	font-size: 1.5em;
+	  	text-transform: uppercase;
+	  	color: white;
+	  	cursor: pointer;
+	  	padding: 8px 0px;
+	  	background: rgba(15, 144, 149, 0.5);
+	  	-moz-border-radius: 5px;
+			-webkit-border-radius: 5px; 		
+			border-radius: 5px;
+	  	-webkit-transition: all 0.2s ease-in;
+			-moz-transition: all 0.2s ease-in;
+			-ms-transition: all 0.2s ease-in;
+			-o-transition: all 0.2s ease-in;
+			transition: all 0.2s ease-in;
+	}
+
+	#a, #b{
+		max-width: 100%;
+		color: white;
+	}
+
+	#a {
+		background-color: darkcyan;
+		
+	}
+
+	#b {
+		background: url("../img/servicesbg.png");
+	}
+
+	.options {
+		color: darkcyan;
+		margin-top: 2em;
+		font-size: 2em;
+	}
+
+	footer {
+		padding-top: 0.8em;
+		padding-bottom: 0.8em;
+		background: url("../img/servicesbg.png");
+		color: white;
+		text-align: center;
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+	}
+}

@@ -1,0 +1,133 @@
+/* -------------------------------0 - 639--------------------------------------*/
+
+@media (max-width: 639px) {
+	body {
+		text-align: center;	
+		background: url("../img/grey.png");
+		font-family: 'Lato', sans-serif;
+	}
+
+	h1, h3, h5 {
+		font-family: 'Lato', sans-serif;
+	}
+
+	.row {
+		max-width: 100%;
+	}
+
+	#a, #b{
+		max-width: 100%;
+		color: white;
+	}
+
+	#a {
+		background-color: darkcyan;
+		
+	}
+
+	#b {
+		background: url("../img/servicesbg.png");
+	}
+
+	#content {
+		padding-top: 1em;
+		padding-bottom: 3em;
+	}
+
+	input[type=submit] {
+	  	border: 2px solid rgba(15, 144, 149, 0.5);
+	  	font-size: 1.5em;
+	  	vertical-align: middle;
+	  	text-transform: uppercase;
+	  	color: white;
+	  	cursor: pointer;
+	  	padding: 5px 0px;
+	  	background: darkcyan;
+	  	-moz-border-radius: 5px;
+			-webkit-border-radius: 5px; 		
+			border-radius: 5px;
+	  	-webkit-transition: all 0.2s ease-in;
+			-moz-transition: all 0.2s ease-in;
+			-ms-transition: all 0.2s ease-in;
+			-o-transition: all 0.2s ease-in;
+			transition: all 0.2s ease-in;
+	}
+
+	footer {
+		padding-top: 0.8em;
+		padding-bottom: 0.8em;
+		background: url("../img/servicesbg.png");
+		color: white;
+		text-align: center;
+		width: 100%;
+		bottom: 0;
+		position: fixed;
+	}
+}
+
+/* -------------------------------640 - ... --------------------------------------*/
+
+@media (min-width: 640px) {
+	body {
+		text-align: center;	
+		background: url("../img/grey.png");
+		font-family: 'Lato', sans-serif;
+	}
+
+	h1, h3, h5 {
+		font-family: 'Lato', sans-serif;
+	}
+
+	.row {
+		max-width: 100%;
+	}
+
+	#a, #b{
+		max-width: 100%;
+		color: white;
+	}
+
+	#a {
+		background-color: darkcyan;
+		
+	}
+
+	#b {
+		background: url("../img/servicesbg.png");
+	}
+
+	#content {
+		padding-top: 1em;
+		padding-bottom: 3em;
+	}
+
+	input[type=submit] {
+	  	border: 2px solid rgba(15, 144, 149, 0.5);
+	  	font-size: 1.5em;
+	  	vertical-align: middle;
+	  	text-transform: uppercase;
+	  	color: white;
+	  	cursor: pointer;
+	  	padding: 5px 0px;
+	  	background: darkcyan;
+	  	-moz-border-radius: 5px;
+			-webkit-border-radius: 5px; 		
+			border-radius: 5px;
+	  	-webkit-transition: all 0.2s ease-in;
+			-moz-transition: all 0.2s ease-in;
+			-ms-transition: all 0.2s ease-in;
+			-o-transition: all 0.2s ease-in;
+			transition: all 0.2s ease-in;
+	}
+
+	footer {
+		padding-top: 0.8em;
+		padding-bottom: 0.8em;
+		background: url("../img/servicesbg.png");
+		color: white;
+		text-align: center;
+		width: 100%;
+		bottom: 0;
+		position: fixed;
+	}
+}
