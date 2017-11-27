@@ -95,4 +95,4 @@
 [license-url]: https://img.shields.io/badge/license-Apache%202-blue.svg?style=flat "License"
 [version-url]: https://img.shields.io/badge/version-1.0.0-brightgreen.svg?style=flat "Version"
 [done-url]: https://img.shields.io/badge/done-01.2016-yellow.svg?style=flat "Done"
-[maintenance-url]: https://img.shields.io/maintenance/no/2014.svg?style=flat "Maintenance"
+[maintenance-url]: https://img.shields.io/maintenance/no/2016.svg?style=flat "Maintenance"
